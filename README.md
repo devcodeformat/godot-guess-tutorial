@@ -27,3 +27,6 @@ Guess the Number Game Tutorial (In Progress)
   - Navigate to the center of the Godot GUI.
   - Find and Select 'Layout' button.
     - Find and Select 'Full Rect'.    
+- While 'PanelContainer' is selected:
+  - Create New Node
+    - Find and Select 'MarginContainer'   
