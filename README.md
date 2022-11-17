@@ -8,7 +8,7 @@ Guess the Number Game Tutorial (In Progress)
 - Open Godot Software.
 - Click 'New Project' Button.
 - Project Name: "guess-game".
-- Project Path -> 'Browse' button : 'Documents' folder -> 'Godot' folder.
+- Project Path -> 'Browse' button : 'Documents' folder -> 'Godot' folder -> Create New Folder
 - Renderer: 'OpenGL ES 2.0'.
 
 ## First Steps
