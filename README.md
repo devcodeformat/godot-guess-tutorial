@@ -54,7 +54,12 @@ Guess the Number Game Tutorial (In Progress)
 - Select 'Rows':
   - Create New Node.
     - 'PanelContainer'.
-      - Rename to "InputArea".      
+      - Rename to "InputArea".
+- Select 'Rows':
+  - Inspector tab.
+    - Theme Overrides.
+      - Constants.
+        - Separation: 20.           
 
 ## Solid Background Color
 - Select 'PanelContainer' (2ND IN TREE: DIRECT CHILD OF 'GAME' NODE)  
