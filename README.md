@@ -74,7 +74,7 @@ Guess the Number Game Tutorial (In Progress)
         - Panel: New StyleBoxFlat.
           - Color: User Preference.
 
-## InputArea Options
+## InputArea Size & Color
 - Select 'InputArea':
   - Inspector tab.
     - Rect.
