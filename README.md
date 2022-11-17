@@ -34,4 +34,9 @@ Guess the Number Game Tutorial (In Progress)
   - Create New Node.
     - 'VBoxContainer'.
 - Select 'VBoxContainer':
-  - Rename to "Rows".     
+  - Rename to "Rows".
+- Select 'MarginContainer':
+  - Inspector
+    - Theme Overrides
+      - Constants
+        - 20         
