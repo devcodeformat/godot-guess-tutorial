@@ -94,5 +94,93 @@ Guess the Number Game Tutorial (In Progress)
       - Styles.
         - Panel: New StyleBoxFlat.
           - Color: User Preference 
+          
+          
+### ======================================================
 
+
+## Enabling User Input
+- Select 'InputArea':
+  - Create New Node
+    - 'LineEdit'
+      - Rename to "Input"
       
+- Select 'Input':
+  - Inspector tab.
+    - Theme Overrides.
+      - Styles. 
+        - Normal: New StyleBoxEmpty.
+        
+- Select 'Input':
+  - Attach Script.
+    - Create w/ Default Settings & Name.
+
+### ======================================================
+
+
+- Modify 'Input' Script:
+  - Delete 'pass' statement.
+  - Verify Code Below.
+    func _ready() -> void:
+	      grab_focus()
+
+- Select 'InputArea':
+  - Create New Node.
+    - Label.
+      - Rename to "Caret".
+        - Drag 'Caret' above 'Input' sibling.
+        
+- Select 'Caret':
+  - Inspector
+    - Insert in Text: [ > ].
+    
+### ======================================================
+    
+- Select 'InputArea':
+  - Create New Node.
+    - HBoxContainer.
+      - Drag 'Caret' & 'Input' into container.
+      
+- Select 'Input':
+  - Inspector tab.
+    - Max Length: 48.
+    - Size Flags.
+      - Horizontal: Expand.
+    - Theme Overrides.
+      - Styles.
+        - Focus: New StyleBoxEmpty
+      
+    
+### ======================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
