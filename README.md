@@ -27,7 +27,8 @@ Guess the Number Game Tutorial (In Progress)
 - Select PanelContainer:
   - Navigate to the center of the Godot GUI.
   - Find and Select 'Layout' button.
-    - Find and Select 'Full Rect'.    
+    - Find and Select 'Full Rect'.
+### ======================================================    
 - While 'PanelContainer' is selected:
   - Create New Node.
     - Find and Select 'MarginContainer'.
@@ -36,6 +37,7 @@ Guess the Number Game Tutorial (In Progress)
     - 'VBoxContainer'.
 - Select 'VBoxContainer':
   - Rename to "Rows".
+### ======================================================
 - Select 'MarginContainer':
   - Inspector tab (top-right).
     - Control -> Theme Overrides.
@@ -48,6 +50,7 @@ Guess the Number Game Tutorial (In Progress)
   - Create New Node.
     - 'PanelContainer'.
       - Rename to "GameInfo". 
+### ======================================================
 - While 'GameInfo' is selected:
   - Inspector tab.
     - Size Flags. 
@@ -60,7 +63,9 @@ Guess the Number Game Tutorial (In Progress)
   - Inspector tab.
     - Theme Overrides.
       - Constants.
-        - Separation: 20.           
+        - Separation: 20.
+### ======================================================
+          
 
 ## Solid Background Color
 - Select 'PanelContainer' (2ND IN TREE: DIRECT CHILD OF 'GAME' NODE)  
