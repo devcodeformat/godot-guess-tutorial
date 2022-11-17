@@ -47,6 +47,10 @@ Guess the Number Game Tutorial (In Progress)
   - Create New Node.
     - 'PanelContainer'.
       - Rename to "GameInfo". 
+- While 'GameInfo' is selected:
+  - Inspector tab
+    - Size Flags. 
+      - Vertical: Check 'Expand'.   
 
 ## Background Color
 - Select 'PanelContainer' (2ND IN TREE: DIRECT CHILD OF 'GAME' NODE)  
@@ -56,4 +60,7 @@ Guess the Number Game Tutorial (In Progress)
     - Theme Overrides
       - Styles
         - Panel: New StyleBoxFlat
-          - Color: User Preference                  
+          - Color: User Preference
+
+## Text Area Background Color 
+- 
