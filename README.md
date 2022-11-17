@@ -36,7 +36,10 @@ Guess the Number Game Tutorial (In Progress)
 - Select 'VBoxContainer':
   - Rename to "Rows".
 - Select 'MarginContainer':
-  - Inspector
-    - Theme Overrides
-      - Constants
-        - 20         
+  - Inspector tab (top-right).
+    - Control -> Theme Overrides.
+      - Constants.
+        - Margin Right: 20.
+        - Margin Top: 20.
+        - Margin Left: 20.
+        - Margin Bottom: 20.         
