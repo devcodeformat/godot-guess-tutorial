@@ -45,11 +45,14 @@ Guess the Number Game Tutorial (In Progress)
         - Margin Bottom: 20.
 - Select 'Rows':
   - Create New Node.
-    - Select 'PanelContainer'. 
+    - 'PanelContainer'.
+
+## Colors
+- Select 'PanelContainer' (2ND IN TREE: DIRECT CHILD OF 'GAME' NODE)  
       - Rename to "Background".
 - While 'Background' is selected:
   - Inspector tab
     - Theme Overrides
       - Styles
         - Panel: New StyleBoxFlat
-          - Color: User Preference                 
+          - Color: User Preference                  
