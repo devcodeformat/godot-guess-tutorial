@@ -156,6 +156,7 @@ Guess the Number Game Tutorial (In Progress)
 ## Custom Fonts
 
 - FileSystem (bottom-left):
+	- Download .ttf file 
 	- Create new folder "Fonts".
 	- Import .ttf file into 'Fonts' folder
 	- Right-click: 'res://':
