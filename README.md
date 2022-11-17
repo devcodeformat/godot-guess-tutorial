@@ -47,7 +47,7 @@ Guess the Number Game Tutorial (In Progress)
   - Create New Node.
     - 'PanelContainer'.
 
-## Colors
+## Background Color
 - Select 'PanelContainer' (2ND IN TREE: DIRECT CHILD OF 'GAME' NODE)  
       - Rename to "Background".
 - While 'Background' is selected:
