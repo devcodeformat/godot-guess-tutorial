@@ -16,6 +16,7 @@ Guess the Number Game Tutorial (In Progress)
   - Search and Select 'Control' Node.
     - Rename 'Control' Node to "Game".
 - Save Scene as "Game.tscn".
+### ======================================================
 - While 'Game' is selected:
   - Navigate to the center of the Godot GUI.
   - Find and Select 'Layout' button. (above viewport)
