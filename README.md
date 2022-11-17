@@ -42,4 +42,14 @@ Guess the Number Game Tutorial (In Progress)
         - Margin Right: 20.
         - Margin Top: 20.
         - Margin Left: 20.
-        - Margin Bottom: 20.         
+        - Margin Bottom: 20.
+- Select 'Rows':
+  - Create New Node.
+    - Select 'PanelContainer'. 
+      - Rename to "Background".
+- While 'Background' is selected:
+  - Inspector tab
+    - Theme Overrides
+      - Styles
+        - Panel: New StyleBoxFlat
+          - Color: User Preference                 
