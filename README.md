@@ -19,3 +19,10 @@ Guess the Number Game Tutorial (In Progress)
   - Navigate to the center of the Godot GUI.
   - Find and Select 'Layout' button. (above viewport)
     - Find and Select 'Full Rect'. (near-bottom of list)
+- While 'Game' is selected:
+  - Create New Node.
+  - PanelContainer.
+- Select PanelContainer:
+  - Navigate to the center of the Godot GUI.
+  - Find and Select 'Layout' button.
+    - Find and Select 'Full Rect'.    
