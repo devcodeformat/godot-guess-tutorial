@@ -48,9 +48,13 @@ Guess the Number Game Tutorial (In Progress)
     - 'PanelContainer'.
       - Rename to "GameInfo". 
 - While 'GameInfo' is selected:
-  - Inspector tab
+  - Inspector tab.
     - Size Flags. 
-      - Vertical: Check 'Expand'.   
+      - Vertical: Check 'Expand'.
+- Select 'Rows':
+  - Create New Node.
+    - 'PanelContainer'.
+      - Rename to "InputArea".      
 
 ## Solid Background Color
 - Select 'PanelContainer' (2ND IN TREE: DIRECT CHILD OF 'GAME' NODE)  
@@ -68,4 +72,16 @@ Guess the Number Game Tutorial (In Progress)
     - Theme Overrides.
       - Styles.
         - Panel: New StyleBoxFlat.
-          - Color: User Preference.      
+          - Color: User Preference.
+
+## InputArea Options
+- Select 'InputArea':
+  - Inspector tab.
+    - Rect.
+      - Min Size: y=60.
+    - Theme Overrides.
+      - Styles.
+        - Panel: New StyleBoxFlat.
+          - Color: User Preference 
+
+      
