@@ -11,7 +11,7 @@ Guess the Number Game Tutorial (In Progress)
 - Project Path -> 'Browse' button : 'Documents' folder -> 'Godot' folder -> Create New Folder
 - Renderer: 'OpenGL ES 2.0'.
 
-## First Steps (Game Layout)
+## First Steps (Retro Text Game Layout)
 - Create New Node : Click '+' (top-left corner) or press [+ Other Node] button.
   - Search and Select 'Control' Node.
     - Rename 'Control' Node to "Game".
