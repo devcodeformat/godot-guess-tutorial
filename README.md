@@ -12,4 +12,6 @@ Guess the Number Game Tutorial (In Progress)
 - Renderer: 'OpenGL ES 2.0'.
 
 ## First Steps
-- Create New Node : Click '+' (top-left corner) or press [+    Other Node] button.
+- Create New Node : Click '+' (top-left corner) or press [+ Other Node] button.
+- Search and Select 'Control' Node.
+- Rename 'Control' Node to "Game".
