@@ -16,6 +16,6 @@ Guess the Number Game Tutorial (In Progress)
 - Search and Select 'Control' Node.
 - Rename 'Control' Node to "Game".
 - While 'Game' is selected:
-  - Navigate center of Godot GUI.
-  - Find and Select 'Layout' button.
-  - Find and Select 'Full Rect'. (near-bottom)
+  - Navigate to the center of the Godot GUI.
+  - Find and Select 'Layout' button. (above viewport)
+    - Find and Select 'Full Rect'. (near-bottom of list)
