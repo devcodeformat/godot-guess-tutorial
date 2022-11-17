@@ -10,3 +10,6 @@ Guess the Number Game Tutorial (In Progress)
 - Project Name: "guess-game".
 - Project Path -> 'Browse' button : 'Documents' folder -> 'Godot' folder.
 - Renderer: 'OpenGL ES 2.0'.
+
+## First Steps
+- Create New Node : Click '+' (top-left corner) or press [+    Other Node] button.
