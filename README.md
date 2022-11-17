@@ -52,15 +52,20 @@ Guess the Number Game Tutorial (In Progress)
     - Size Flags. 
       - Vertical: Check 'Expand'.   
 
-## Background Color
+## Solid Background Color
 - Select 'PanelContainer' (2ND IN TREE: DIRECT CHILD OF 'GAME' NODE)  
       - Rename to "Background".
 - While 'Background' is selected:
-  - Inspector tab
-    - Theme Overrides
-      - Styles
-        - Panel: New StyleBoxFlat
-          - Color: User Preference
+  - Inspector tab.
+    - Theme Overrides.
+      - Styles.
+        - Panel: New StyleBoxFlat.
+          - Color: User Preference.
 
-## Text Area Background Color 
-- 
+## Console Background Color 
+- Select 'GameInfo':
+  - Inspector tab.
+    - Theme Overrides.
+      - Styles.
+        - Panel: New StyleBoxFlat.
+          - Color: User Preference.      
