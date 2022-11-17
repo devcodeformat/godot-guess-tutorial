@@ -13,15 +13,18 @@ Guess the Number Game Tutorial (In Progress)
 
 ## First Steps
 - Create New Node : Click '+' (top-left corner) or press [+ Other Node] button.
-- Search and Select 'Control' Node.
-- Rename 'Control' Node to "Game".
+  - Search and Select 'Control' Node.
+    - Rename 'Control' Node to "Game".
+
 - While 'Game' is selected:
   - Navigate to the center of the Godot GUI.
   - Find and Select 'Layout' button. (above viewport)
     - Find and Select 'Full Rect'. (near-bottom of list)
+    
 - While 'Game' is selected:
   - Create New Node.
-  - PanelContainer.
+    - PanelContainer.
+    
 - Select PanelContainer:
   - Navigate to the center of the Godot GUI.
   - Find and Select 'Layout' button.
