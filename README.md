@@ -153,8 +153,30 @@ Guess the Number Game Tutorial (In Progress)
     
 ### ======================================================
 
+## Custom Fonts
 
+- FileSystem (bottom-left):
+	- Create new folder "Fonts".
+	- Import .ttf file into 'Fonts' folder
+	- Right-click: 'res://':
+		- Select New Resource.
+			- Dynamic Font.
+				- Save (e.g, plex_mono_16.tres).
+  - Select saved '.tres' file:
+  	- Inspector
+  		- Settings
+  			- Size: (Font Size)  	
+  		- Font
+  			- Font Data: (Downloaded Font)   
 
+- Select 'Input'
+	- Inspector
+		- Theme Overrides
+			- Fonts
+				- Font: (User made .tres file)  
+
+    
+### ======================================================  
 
 
 
